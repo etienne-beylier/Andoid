@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyLibAndroid</string>
+    <string name="bouton">Exercice </string>
+
+    <string name="cliquez_moi">click</string>
+    <string name="tomate">tomate</string>
 </resources>
